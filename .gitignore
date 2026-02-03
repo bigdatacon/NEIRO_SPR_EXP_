@@ -3,7 +3,7 @@
 
 # Не игнорировать .gitignore и ypnb
 !/.gitignore
-!/ypnb
+!/SPR_4_EXP.ypnb
 
 # Не игнорировать папку .git (чтобы git продолжал работать)
 !/.git/
